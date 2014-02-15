@@ -249,43 +249,48 @@ a:visited {
 }
 
 /* line 156, ../sass/screen.scss */
+.post ul {
+  list-style: circle;
+}
+
+/* line 160, ../sass/screen.scss */
 .post code {
   border: 1px solid #ddd;
   background-color: #f8f8f8;
   padding: 0 .2em;
 }
 
-/* line 162, ../sass/screen.scss */
+/* line 166, ../sass/screen.scss */
 .post pre code {
   border: none;
 }
 
 /* terminal */
-/* line 167, ../sass/screen.scss */
+/* line 171, ../sass/screen.scss */
 .post pre.terminal {
   border: 1px solid #000;
   background-color: #333;
   color: #FFF;
 }
 
-/* line 173, ../sass/screen.scss */
+/* line 177, ../sass/screen.scss */
 .post pre.terminal code {
   background-color: #333;
 }
 
-/* line 177, ../sass/screen.scss */
+/* line 181, ../sass/screen.scss */
 blockquote {
   font-style: italic;
   border-left: 3px solid #ccc;
   padding-left: 10px;
 }
 
-/* line 183, ../sass/screen.scss */
+/* line 187, ../sass/screen.scss */
 .contact dl {
   font-size: 0.8em;
 }
 
-/* line 187, ../sass/screen.scss */
+/* line 191, ../sass/screen.scss */
 .contact dt {
   margin-top: 10px;
   margin-bottom: -5px;
