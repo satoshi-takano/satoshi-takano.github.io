@@ -121,15 +121,14 @@ a:visited {
 .posts span {
   color: #aaa;
   font-family: Monaco, "Courier New", monospace;
-  font-size: 80%;
 }
 
-/* line 50, ../sass/screen.scss */
+/* line 49, ../sass/screen.scss */
 .sns-buttons {
   margin-top: 40px;
 }
 
-/* line 53, ../sass/screen.scss */
+/* line 52, ../sass/screen.scss */
 .twitter-share-button {
   margin-left: 10px;
 }
@@ -139,60 +138,60 @@ a:visited {
 /* Site
 /*
 /*****************************************************************************/
-/* line 63, ../sass/screen.scss */
+/* line 62, ../sass/screen.scss */
 .site {
-  font-size: 115%;
+  font-size: 130%;
   text-align: justify;
   width: 42em;
   margin: 3em auto 2em;
-  line-height: 1.5em;
+  line-height: 1.6em;
 }
 
-/* line 71, ../sass/screen.scss */
+/* line 70, ../sass/screen.scss */
 .site h2 {
   font-weight: bold;
   color: #555;
 }
 
-/* line 76, ../sass/screen.scss */
+/* line 75, ../sass/screen.scss */
 .header a {
   font-weight: bold;
   text-decoration: none;
 }
 
-/* line 81, ../sass/screen.scss */
+/* line 80, ../sass/screen.scss */
 .title {
   display: inline-block;
   margin-bottom: 2em;
 }
 
-/* line 86, ../sass/screen.scss */
+/* line 85, ../sass/screen.scss */
 .title a {
   color: #a00;
 }
 
-/* line 90, ../sass/screen.scss */
+/* line 89, ../sass/screen.scss */
 .title a:hover {
   color: #000;
 }
 
-/* line 94, ../sass/screen.scss */
+/* line 93, ../sass/screen.scss */
 .header a.extra {
   color: #aaa;
   margin-left: 1em;
 }
 
-/* line 99, ../sass/screen.scss */
+/* line 98, ../sass/screen.scss */
 .header a.extra:hover {
   color: #000;
 }
 
-/* line 103, ../sass/screen.scss */
+/* line 102, ../sass/screen.scss */
 .meta {
   color: #aaa;
 }
 
-/* line 107, ../sass/screen.scss */
+/* line 106, ../sass/screen.scss */
 .footer {
   font-size: 80%;
   color: #666;
@@ -202,30 +201,30 @@ a:visited {
   padding-top: 1em;
 }
 
-/* line 116, ../sass/screen.scss */
+/* line 115, ../sass/screen.scss */
 .footer .contact {
   float: left;
   margin-right: 3em;
 }
 
-/* line 121, ../sass/screen.scss */
+/* line 120, ../sass/screen.scss */
 .footer .contact p {
   margin: 0;
 }
 
-/* line 125, ../sass/screen.scss */
+/* line 124, ../sass/screen.scss */
 .footer .contact a {
   color: #8085C1;
 }
 
-/* line 129, ../sass/screen.scss */
+/* line 128, ../sass/screen.scss */
 .footer .rss {
   margin-top: 1.1em;
   margin-right: -.2em;
   float: right;
 }
 
-/* line 135, ../sass/screen.scss */
+/* line 134, ../sass/screen.scss */
 .footer .rss img {
   border: 0;
 }
@@ -236,61 +235,61 @@ a:visited {
 /*
 /*****************************************************************************/
 /* standard */
-/* line 146, ../sass/screen.scss */
+/* line 145, ../sass/screen.scss */
 .post pre {
   border: 1px solid #ddd;
   background-color: #f8f8f8;
   padding: 0 .4em;
 }
 
-/* line 152, ../sass/screen.scss */
+/* line 151, ../sass/screen.scss */
 .post ul, .post ol {
   margin-left: 1.35em;
 }
 
-/* line 156, ../sass/screen.scss */
+/* line 155, ../sass/screen.scss */
 .post ul {
   list-style: circle;
 }
 
-/* line 160, ../sass/screen.scss */
+/* line 159, ../sass/screen.scss */
 .post code {
   border: 1px solid #ddd;
   background-color: #f8f8f8;
   padding: 0 .2em;
 }
 
-/* line 166, ../sass/screen.scss */
+/* line 165, ../sass/screen.scss */
 .post pre code {
   border: none;
 }
 
 /* terminal */
-/* line 171, ../sass/screen.scss */
+/* line 170, ../sass/screen.scss */
 .post pre.terminal {
   border: 1px solid #000;
   background-color: #333;
   color: #FFF;
 }
 
-/* line 177, ../sass/screen.scss */
+/* line 176, ../sass/screen.scss */
 .post pre.terminal code {
   background-color: #333;
 }
 
-/* line 181, ../sass/screen.scss */
+/* line 180, ../sass/screen.scss */
 blockquote {
   font-style: italic;
   border-left: 3px solid #ccc;
   padding-left: 10px;
 }
 
-/* line 187, ../sass/screen.scss */
+/* line 186, ../sass/screen.scss */
 .contact dl {
   font-size: 0.8em;
 }
 
-/* line 191, ../sass/screen.scss */
+/* line 190, ../sass/screen.scss */
 .contact dt {
   margin-top: 10px;
   margin-bottom: -5px;
